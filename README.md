@@ -1,2 +1,2 @@
 # Cartoonisation
-Cartoonise any image..
+Cartoonise any image you want..
